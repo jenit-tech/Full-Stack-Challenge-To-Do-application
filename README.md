@@ -2,6 +2,7 @@ Full Stack Challenge: To-Do Application
 Overview
 This project is a simple To-Do Application built with React. It allows users to manage their tasks efficiently, with features to add, edit, delete, and mark tasks as complete. The project demonstrates the use of React state management, component structure, and basic CRUD operations.
 
+
 Features
 Add Tasks: Add multiple tasks at once with a title and count.
 Edit Tasks: Modify existing tasks directly within the list.
